@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_paddingTop">24dp</dimen>
+    <dimen name="navigation_margin">-65dp</dimen>
+    <dimen name="ability_grid_item_height">65dp</dimen>
+    <dimen name="textSize_choice">15sp</dimen>
+    <dimen name="textSize_toast">15sp</dimen>
+</resources>

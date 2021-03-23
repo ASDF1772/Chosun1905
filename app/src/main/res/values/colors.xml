@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorDefault">#fafafa</color>
+    <color name="colorGain">#0CB30C</color>
+    <color name="colorLose">#DB0B0F</color>
+    <color name="colorTextDefault">#000</color>
+    <color name="colorInvisible">#0000</color>
+    <color name="colorDivider">#a555</color>
+</resources>
